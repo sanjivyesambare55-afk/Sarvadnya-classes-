@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-display: 'Space Grotesk', system-ui, -apple-system, sans-serif;
+    --font-sans: 'Manrope', system-ui, -apple-system, sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem; /* 96px offset for sticky 80px header */
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #07111F;
+    color: #F7F7F4;
+    overflow-x: hidden;
+  }
+
+  .font-display {
+    font-family: var(--font-display);
+  }
+}
+
+/* Custom discreet scrollbar matching dark luxury palette */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #07111F;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e2c3d;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D5B06C;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

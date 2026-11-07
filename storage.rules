@@ -1,0 +1,21 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    function isAdmin() {
+      return request.auth != null && 
+        firestore.exists(/databases/(default)/documents/admins/$(request.auth.uid));
+    }
+
+    // Topper student portraits for public website display
+    match /toppers/{imageId} {
+      // Public can view topper portraits
+      allow read: if true;
+      // Only admins can upload, replace or delete portraits
+      // Enforces max 2MB file size and image content-type
+      allow write: if isAdmin() &&
+        request.resource.size <= 2 * 1024 * 1024 &&
+        request.resource.contentType.matches('image/.*');
+    }
+  }
+}

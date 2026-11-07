@@ -1,0 +1,82 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper function to verify administrator status
+    // Checks if the user is authenticated (and optionally matches admin email)
+    function isAdmin() {
+      return request.auth != null;
+    }
+
+    // Admins Collection:
+    // Any authenticated user can check their admin doc. Client writes are locked.
+    match /admins/{uid} {
+      allow read: if request.auth != null;
+      allow write: if false;
+    }
+
+    // Website Enquiries Collection:
+    // Anyone (prospective students/parents on public website) can create an admission enquiry.
+    // Authenticated admins have full read, update, and delete access.
+    match /enquiries/{enquiryId} {
+      allow create: if true;
+      allow read, update, delete: if request.auth != null;
+    }
+
+    // Student Roster Collection:
+    // Enrolled students, phone numbers, parent contacts, fees, and cohorts.
+    match /students/{studentId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Attendance Collection (Daily Roll Call & Monthly Logs):
+    match /attendance/{attendanceId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Library Seats Collection (2-Floor, 200 Seats Matrix):
+    match /library_seats/{seatId} {
+      allow read, write: if request.auth != null;
+    }
+    match /librarySeats/{seatId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Fees Collection:
+    // Monthly fee records (${studentId}_${YYYY-MM}), payment modes, and reminder logs.
+    match /fees/{feeId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Website Toppers Collection (Monthly Roll of Honor & Wall of Fame):
+    // Public can read published monthly toppers.
+    // Admin has full write access to manage and publish.
+    match /toppers/{topperId} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+
+    // Website Testimonials Collection:
+    // Public read for verified reviews, anyone can submit feedback, admin can manage.
+    match /testimonials/{testimonialId} {
+      allow read: if true;
+      allow create: if true;
+      allow update, delete: if request.auth != null;
+    }
+
+    // Settings Collection (Reminder Templates, Institute Config):
+    match /settings/{settingId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Audit Logs Collection (optional operational audit trail):
+    match /auditLogs/{logId} {
+      allow read, write: if request.auth != null;
+    }
+
+    // Catch-all: Authenticated users can read and write; unauthenticated users are denied
+    match /{document=**} {
+      allow read, write: if request.auth != null;
+    }
+  }
+}

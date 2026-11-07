@@ -1,0 +1,974 @@
+# PROJECT: SARVADNYA TUITION CLASSES
+## THE FUTURE IS BUILT HERE
+### Premium Cinematic 3D Website — High-End Creative Agency Direction
+
+## 1. YOUR ROLE
+
+Act as a world-class creative director, cinematic 3D artist, Three.js engineer, GSAP animation specialist, architectural visualization artist, UX designer and premium website developer.
+
+Design and build a complete, visually spectacular website for Sarvadnya Tuition Classes, Nagpur.
+
+The website should feel like a custom-designed premium digital experience created by an elite creative technology agency.
+
+The main objective is to create a bold, modern, realistic, dynamic 3D website in which the entire visual environment transforms as the visitor scrolls.
+
+I do not want a generic tuition website.
+
+I do not want a standard hero with a heading on the left and a decorative object on the right.
+
+I do not want the usual floating-book concept.
+
+I want a cinematic 3D environment with realistic materials, architectural scale, dramatic lighting, sophisticated motion and seamless transitions between sections.
+
+The visual experience should be ambitious, premium, engaging and easy to navigate.
+
+Most importantly, implement the actual working website rather than returning only a design description or static mockup.
+
+---
+
+# 2. BUSINESS DETAILS
+
+Business name:
+Sarvadnya Tuition Classes
+
+Tagline:
+Learn Smart. Score Higher.
+
+Address:
+01 Sarvashree Nagar, Nagpur, Maharashtra, India.
+
+Contact number:
+7020035514
+
+Programs offered:
+
+- Class 9
+- Class 10
+- Class 11
+- Class 12
+- NEET preparation
+- JEE preparation
+
+Additional facility:
+
+Student library seating is available from 7:00 AM to 10:00 PM.
+
+Primary website objectives:
+
+1. Create an unforgettable first impression.
+2. Showcase the available academic programs.
+3. Promote the student library facility.
+4. Make the website easy for parents and students to navigate.
+5. Generate genuine admission enquiries.
+6. Encourage direct communication through WhatsApp and telephone.
+
+Do not invent examination results, success rates, faculty credentials, student testimonials, fees or institutional achievements.
+
+---
+
+# 3. CREATIVE DIRECTION: THE FUTURE IS BUILT HERE
+
+Build the entire website around one visual idea:
+
+A monumental, realistic three-dimensional environment representing the construction of knowledge, academic ambition and scientific discovery.
+
+The experience should feel like an architectural film brought to life inside a website.
+
+Think of the visual sophistication of a premium automotive campaign, the realism of architectural visualization and the interactive movement of an experimental 3D website.
+
+The environment should contain large-scale architectural forms, scientifically inspired structures, realistic physical objects and carefully controlled atmospheric depth.
+
+Do not make it look like a video game.
+
+Do not use cartoon graphics.
+
+Do not fill the environment with random floating objects.
+
+Every visual element must feel intentional, physically believable and connected to education.
+
+The main character of this website is not a book.
+
+The main character is the entire three-dimensional environment.
+
+The visitor should feel as though they are travelling through a beautifully designed world.
+
+---
+
+# 4. VISUAL DESIGN SYSTEM
+
+Create a sophisticated, cinematic visual identity.
+
+COLOR PALETTE:
+
+Primary background:
+Deep midnight blue, #07111F.
+
+Secondary background:
+Charcoal navy, #101923.
+
+Architectural surfaces:
+Dark graphite, brushed metal and natural stone.
+
+Primary accent:
+Warm champagne gold, #D5B06C.
+
+Secondary accent:
+Cool cyan, #76D9EF.
+
+Main typography:
+Warm white, #F7F7F4.
+
+Secondary typography:
+Muted silver-gray, #A9B3C1.
+
+Use these colors with restraint.
+
+The environment should primarily use realistic physical materials rather than flat colored surfaces.
+
+Use dark architectural surfaces, reflective metal, frosted glass, subtle stone textures and warm illuminated details.
+
+Gold should appear in architectural lighting, selected interface elements and subtle highlights.
+
+Cyan should appear in scientific environments and a limited number of illuminated structures.
+
+Avoid excessive neon and oversaturated gradients.
+
+The website must feel sophisticated and expensive without appearing artificial.
+
+TYPOGRAPHY:
+
+Use a premium modern typeface such as Space Grotesk, Manrope or a comparable display font.
+
+Use a highly readable sans-serif font for paragraphs and interface elements.
+
+Create oversized headlines with precise line breaks and generous negative space.
+
+Use restrained uppercase labels and small supporting metadata.
+
+The typography should contrast beautifully with the realistic 3D environment.
+
+---
+
+# 5. THE HERO: A MONUMENTAL 3D EXPERIENCE
+
+This is the most important part of the website.
+
+Spend the greatest amount of design and development effort on the hero section.
+
+The first screen should look extraordinary even before the visitor scrolls.
+
+Do not use a simple sphere, generic rotating globe or ordinary collection of floating objects as the entire hero.
+
+Create a custom-designed, monumental scientific sculpture suspended inside a sophisticated architectural environment.
+
+## Main 3D object
+
+Create a large, physically convincing three-dimensional structure inspired by scientific geometry, precision engineering and the interconnected nature of knowledge.
+
+The structure should combine:
+
+- Large intersecting geometric rings
+- Carefully proportioned metallic components
+- Transparent glass elements
+- Subtle internal structures
+- Fine engraved mathematical details
+- Small illuminated elements
+- Realistic material variation
+- Physically plausible shadows and reflections
+
+The composition should be asymmetrical but visually balanced.
+
+Some elements should appear to pass in front of the central structure, while others recede into the background.
+
+The sculpture should have enough detail to reward close inspection.
+
+It must not resemble a simple collection of primitive shapes.
+
+Build it using custom Three.js geometry and carefully selected high-quality 3D assets where necessary.
+
+The structure should represent the connection between mathematics, science, discovery and learning without looking like a literal school illustration.
+
+## Environment
+
+Place the sculpture inside an enormous, dark architectural space.
+
+Imagine a premium contemporary museum combined with a futuristic research environment.
+
+Include:
+
+- Tall architectural walls
+- Large structural openings
+- Carefully positioned light sources
+- Dark stone or metallic surfaces
+- Subtle atmospheric depth
+- Reflective floor elements where appropriate
+- Distant geometric structures
+- Controlled pools of warm light
+
+The architecture must feel physically convincing.
+
+Avoid a completely empty black background.
+
+The environment should establish scale and create a sense of depth.
+
+Use realistic perspective and carefully composed architectural lines.
+
+The main object should feel suspended within the environment rather than pasted onto the background.
+
+## Hero composition
+
+Use a full-screen hero.
+
+The primary 3D sculpture should occupy the central-right portion of the desktop composition.
+
+The left portion should contain the headline, description and primary calls to action.
+
+The text must remain readable.
+
+Use dark negative space behind the typography.
+
+Allow selected architectural elements to extend across the composition, creating the impression that the website exists inside a continuous three-dimensional world.
+
+Do not divide the hero into a conventional left column and right image panel.
+
+The composition should feel like a single cinematic frame.
+
+## Hero headline
+
+Small label:
+
+SARVADNYA TUITION CLASSES · NAGPUR
+
+Main headline:
+
+"THE FUTURE
+IS BUILT HERE."
+
+Use oversized typography.
+
+Keep most of the headline warm white.
+
+Highlight "BUILT HERE." in champagne gold.
+
+Create a restrained reveal animation in which the headline moves into position as the environment becomes visible.
+
+Supporting description:
+
+"Strong academic foundations. Focused preparation. A better space to learn."
+
+Brand tagline:
+
+"Learn Smart. Score Higher."
+
+Primary CTA:
+
+"Explore Our Programs"
+
+Secondary CTA:
+
+"Talk to Us"
+
+The first button should smoothly navigate to the programs section.
+
+The second button should open a WhatsApp conversation with the institute.
+
+Use the exact business contact number.
+
+## Initial animation
+
+When the website first loads:
+
+1. The architectural environment becomes visible.
+2. Light gradually reveals the monumental sculpture.
+3. The camera performs a subtle forward movement.
+4. The sculpture rotates slowly around its primary axis.
+5. Selected metallic components move independently.
+6. Tiny particles drift through the atmosphere.
+7. The headline reveals itself with elegant motion.
+8. The buttons appear without delaying usability.
+
+Keep the opening animation brief and smooth.
+
+Do not make visitors wait through a long loading sequence.
+
+Do not automatically play sound.
+
+---
+
+# 6. THE HERO MUST RESPOND TO SCROLLING
+
+The central requirement is that the 3D scene genuinely moves with the user's scroll position.
+
+Scrolling must not merely fade text in and out.
+
+Use GSAP and ScrollTrigger to create a carefully choreographed camera journey.
+
+The visitor should feel as though they are travelling through the environment.
+
+## Scroll phase 1: Approach
+
+As the visitor begins scrolling:
+
+- The camera moves toward the central sculpture.
+- The sculpture becomes larger in the frame.
+- The camera shifts slightly to one side.
+- Nearby architectural elements create parallax.
+- Foreground elements move faster than distant elements.
+- The headline gradually moves out of the primary composition.
+
+The movement should feel like a real cinematic camera dolly.
+
+## Scroll phase 2: Orbit
+
+As scrolling continues:
+
+- The camera moves around the sculpture.
+- The sculpture rotates at a complementary speed.
+- Metallic components catch changing highlights.
+- Transparent elements reveal the geometry behind them.
+- Architectural structures move across the foreground.
+- The lighting changes subtly as the camera travels.
+
+Do not spin the entire environment randomly.
+
+The camera and object movements should be coordinated.
+
+## Scroll phase 3: Transformation
+
+The sculpture begins to separate into carefully controlled components.
+
+Geometric rings move apart.
+
+Selected metallic pieces rotate into new positions.
+
+Transparent structures reveal scientific diagrams.
+
+Small objects emerge from within the main structure.
+
+The movement should suggest a complex system being revealed.
+
+Every transformation must have a defined starting position, ending position and visual purpose.
+
+## Scroll phase 4: Transition
+
+The geometric components gradually reorganize.
+
+Some become mathematical structures.
+
+Others transform into molecular models and scientific elements.
+
+The architectural environment changes from a monumental abstract space into a more scientific visual environment.
+
+The camera moves forward through the opening created by the transforming structure.
+
+This becomes the transition into the academic programs section.
+
+The transition must be smooth, visually coherent and reversible when the visitor scrolls upward.
+
+Do not replace the scene with a sudden black screen.
+
+Do not reload the entire 3D environment between sections.
+
+Use coordinated camera movement, object transformations, lighting changes and background transitions.
+
+---
+
+# 7. A WEBSITE WHERE EVERY SECTION MOVES
+
+The entire website must share the same cinematic visual language.
+
+Each section should feel like a new environment within one continuous world.
+
+The 3D canvas should remain persistent where practical.
+
+HTML content should remain accessible and readable above the canvas.
+
+As the visitor scrolls, animate the camera, objects, lighting and composition.
+
+Do not animate every object at the same speed.
+
+Different objects should have different movement patterns based on their distance from the camera, physical role and position in the composition.
+
+Use the following motion principles:
+
+### Camera movement
+
+Use controlled dolly movements, lateral tracking, subtle orbits and carefully planned transitions.
+
+### Object movement
+
+Objects should rotate, translate, separate, assemble and change position according to the section narrative.
+
+### Parallax
+
+Foreground objects should move more noticeably than background objects.
+
+### Lighting
+
+Lighting should change naturally between environments.
+
+The dark architectural hero should transition into cooler scientific lighting and eventually warmer library lighting.
+
+### Depth
+
+Use realistic scale relationships, perspective, occlusion and shadows.
+
+### Timing
+
+Some animations should follow scroll progress directly.
+
+Others can use short, restrained transitions when a section enters view.
+
+### Reversibility
+
+The experience should respond naturally when the visitor scrolls backward.
+
+### Readability
+
+Text and buttons must remain readable even when the 3D environment is moving.
+
+The objective is to create a website that feels like a continuous cinematic journey rather than a series of disconnected animations.
+
+---
+
+# 8. SECTION: CLASSES 9 AND 10
+
+As the hero's geometric sculpture transforms, the camera enters a new environment representing foundational learning.
+
+Create a visually rich 3D scene featuring large geometric structures, mathematical diagrams and carefully selected educational objects.
+
+The scene should feel like a sophisticated interactive mathematical installation.
+
+As the visitor scrolls:
+
+- Geometric objects rotate.
+- Mathematical surfaces change orientation.
+- A few formulas appear in three-dimensional space.
+- Structural elements move into a more organized composition.
+- The camera travels between the objects.
+
+Headline:
+
+"BUILD STRONG FOUNDATIONS."
+
+Description:
+
+"Strengthen your understanding, develop effective study habits and prepare for the next stage of your academic journey."
+
+Create two clean course panels.
+
+CLASS 9
+
+"Develop a strong understanding of essential school concepts and build productive learning habits."
+
+Button:
+"Enquire About Class 9"
+
+CLASS 10
+
+"Strengthen subject knowledge, practice problem-solving and prepare systematically for board examinations."
+
+Button:
+"Enquire About Class 10"
+
+Use refined typography and elegant cards.
+
+Do not place paragraphs directly over complicated 3D geometry.
+
+Keep the visual environment in the background or beside the content.
+
+---
+
+# 9. SECTION: CLASSES 11 AND 12
+
+The camera travels into a more advanced scientific environment.
+
+The architecture becomes more technical.
+
+Introduce transparent surfaces, scientific structures, dimensional grids and realistic molecular models.
+
+As the visitor scrolls:
+
+- Molecular structures rotate.
+- Transparent surfaces move through space.
+- Geometric models change position.
+- Scientific elements appear at different depths.
+- The camera moves between the objects.
+
+Headline:
+
+"THINK DEEPER. AIM HIGHER."
+
+Description:
+
+"Build a deeper understanding of senior secondary subjects and prepare for your next academic milestone."
+
+Create two program panels.
+
+CLASS 11
+
+"Build a strong conceptual foundation for advanced academic study."
+
+CLASS 12
+
+"Strengthen subject understanding and prepare for your next academic step."
+
+Each panel should include a functional enquiry button.
+
+Keep the motion elegant and purposeful.
+
+---
+
+# 10. SECTION: NEET PREPARATION
+
+Transition into a realistic scientific environment.
+
+Create a carefully art-directed three-dimensional scene inspired by scientific visualization and medical education.
+
+Use detailed molecular structures, educational biological models and subtle laboratory-inspired architectural elements.
+
+Avoid cartoon-style anatomy.
+
+As the visitor scrolls:
+
+- A molecular model rotates in the foreground.
+- Transparent scientific structures move behind it.
+- Selected elements illuminate as the camera approaches.
+- The environment transitions into a cleaner, more readable composition.
+
+Headline:
+
+"PREPARE WITH PURPOSE."
+
+Supporting headline:
+
+"Your Medical Entrance Journey Starts Here."
+
+Description:
+
+"Explore NEET preparation at Sarvadnya Tuition Classes and discover the academic support available for your preparation."
+
+Create a premium NEET information panel.
+
+Include editable points for:
+
+- Conceptual understanding
+- Academic preparation
+- Practice and revision
+
+These should be presented as learning priorities rather than verified claims about existing teaching procedures.
+
+CTA:
+
+"Enquire About NEET"
+
+Do not invent examination ranks, selection rates or guarantees.
+
+---
+
+# 11. SECTION: JEE PREPARATION
+
+The scientific environment gradually transforms into an advanced mathematical landscape.
+
+Create a realistic three-dimensional composition containing:
+
+- Geometric solids
+- Coordinate grids
+- Mathematical surfaces
+- Precision-engineering-inspired structures
+- Three-dimensional curves
+- Subtle metallic components
+
+As the visitor scrolls, geometric forms rotate and rearrange.
+
+The camera travels through the environment.
+
+Lighting shifts to create strong highlights on the edges of the geometry.
+
+Headline:
+
+"TURN CURIOSITY INTO CAPABILITY."
+
+Description:
+
+"Explore JEE preparation with a focus on understanding concepts, developing analytical thinking and approaching challenging problems."
+
+Create a JEE program panel with a functional enquiry button.
+
+Keep the visual style consistent with the rest of the website.
+
+Do not claim guaranteed admissions or examination results.
+
+---
+
+# 12. SECTION: THE REALISTIC STUDENT LIBRARY
+
+This section should provide a strong visual contrast with the dramatic scientific environments.
+
+The camera emerges into a beautiful, photorealistic study environment.
+
+Create a contemporary architectural interior with:
+
+- Realistic wooden desks
+- Comfortable study chairs
+- Bookshelves
+- Open notebooks
+- Desk lamps
+- Natural-looking window light
+- Warm interior lighting
+- Realistic shadows
+- Detailed surface materials
+
+The space should feel calm, welcoming and believable.
+
+It should look like a carefully designed architectural visualization rather than a fantasy palace.
+
+As the visitor scrolls:
+
+- The camera moves between rows of study desks.
+- Foreground chairs move across the composition.
+- Bookshelves reveal additional depth.
+- Warm lighting gradually illuminates the room.
+- The camera settles on a close-up of a study desk.
+
+Headline:
+
+"YOUR SPACE TO FOCUS."
+
+Description:
+
+"A dedicated place to sit, study and concentrate."
+
+Prominent information:
+
+STUDENT LIBRARY SEATING
+
+AVAILABLE FROM 7:00 AM TO 10:00 PM.
+
+Address:
+
+01 Sarvashree Nagar, Nagpur.
+
+CTA:
+
+"Ask About Library Seating"
+
+The button should open WhatsApp with a prefilled enquiry about access and availability.
+
+Use actual library photographs as visual references if supplied.
+
+If the real facility has not been photographed, clearly treat the 3D room as an illustrative visualization.
+
+Do not invent amenities or claim that the illustrative room is an exact representation of the real facility.
+
+This section must be visually warm, trustworthy and easy to understand.
+
+---
+
+# 13. SECTION: WHY SARVADNYA?
+
+Move from the library into a refined architectural composition.
+
+Use a clean background and restrained 3D elements.
+
+Headline:
+
+"SPACE TO LEARN. SUPPORT TO GROW."
+
+Create four elegant content blocks:
+
+1. Classes 9 and 10
+2. Classes 11 and 12
+3. NEET and JEE preparation
+4. Student library seating
+
+As the visitor scrolls, the blocks should enter the viewport with subtle movement.
+
+A few background elements may shift in depth.
+
+Avoid unnecessary 3D complexity in this section.
+
+Prioritize clear communication.
+
+---
+
+# 14. SECTION: CONTACT AND ADMISSIONS
+
+Transition into a polished, minimalist composition.
+
+The camera gradually stops moving.
+
+The lighting becomes calmer.
+
+The background should provide strong contrast for the final content.
+
+Headline:
+
+"YOUR NEXT CHAPTER STARTS HERE."
+
+Description:
+
+"Connect with Sarvadnya Tuition Classes to learn more about our programs and student library facility."
+
+Include:
+
+Phone:
+7020035514
+
+Address:
+01 Sarvashree Nagar, Nagpur, Maharashtra, India.
+
+Create the following buttons:
+
+"Enquire on WhatsApp"
+
+"Call the Institute"
+
+"Get Directions"
+
+WhatsApp number in international format:
+
+917020035514
+
+Use properly encoded WhatsApp URLs.
+
+Create a simple enquiry form with:
+
+- Student name
+- Phone number
+- Class or program of interest
+- Optional message
+
+Program options:
+
+- Class 9
+- Class 10
+- Class 11
+- Class 12
+- NEET
+- JEE
+- Library Seating
+- General Enquiry
+
+If no form backend is available, validate the form and generate a WhatsApp message that the visitor can send.
+
+Never pretend that an enquiry has been delivered when no delivery mechanism exists.
+
+---
+
+# 15. TECHNICAL IMPLEMENTATION
+
+Use:
+
+- Three.js for the 3D environments.
+- GSAP for coordinated animation timelines.
+- GSAP ScrollTrigger for scroll-linked movement.
+- HTML5 for semantic content.
+- CSS for layout, typography and responsive design.
+- JavaScript for interaction and website behavior.
+
+Use a single persistent Three.js renderer and canvas for the main cinematic environment wherever practical.
+
+Keep text, navigation, forms and buttons in HTML.
+
+Use actual 3D geometry, realistic materials and carefully selected GLTF or GLB assets where appropriate.
+
+Do not use a static background image as a substitute for the main 3D environment.
+
+Do not create a separate expensive renderer for every section.
+
+Organize the project into reusable functions and maintainable modules.
+
+If a single HTML file is required, embed the CSS and JavaScript and use correctly pinned external dependencies.
+
+Do not reference missing models, textures or scripts.
+
+If external assets are required, ensure they can be loaded reliably in the final deployment.
+
+---
+
+# 16. ANIMATION ENGINEERING
+
+Create a carefully coordinated animation system.
+
+Use GSAP timelines for major transitions.
+
+Use ScrollTrigger with scrub for camera and object movements that should directly follow scroll progress.
+
+Use pinning only where it improves the cinematic experience.
+
+Do not pin every section.
+
+Do not make the site feel stuck or difficult to navigate.
+
+Use appropriate easing for animations that are not directly controlled by scroll.
+
+Animate the camera and its viewing target together.
+
+Prevent abrupt camera rotations.
+
+Ensure the transitions are reversible.
+
+Avoid excessive simultaneous movement.
+
+Create clear animation states for each major environment.
+
+The camera should never pass through important objects accidentally.
+
+Ensure ScrollTrigger recalculates positions correctly when the viewport changes.
+
+Use one consistent system for controlling scene transitions.
+
+---
+
+# 17. REALISM REQUIREMENTS
+
+Realism is a priority.
+
+Use physically plausible proportions.
+
+Use high-quality materials.
+
+Create convincing lighting and shadows.
+
+Use realistic depth and perspective.
+
+Make objects cast and receive shadows where appropriate.
+
+Use reflection carefully.
+
+Make transparent materials behave convincingly.
+
+Avoid overly perfect, identical surfaces.
+
+Use subtle material variation.
+
+Avoid the appearance of low-quality plastic.
+
+Do not rely on glowing outlines to create depth.
+
+Use realistic environmental scale.
+
+Every scene should feel like a coherent physical space.
+
+When an object moves, its movement should have a clear trajectory and purpose.
+
+When the camera moves, the surrounding architecture should provide a convincing sense of motion and depth.
+
+The website should resemble a series of beautifully photographed, interactive 3D environments.
+
+---
+
+# 18. PERFORMANCE AND MOBILE EXPERIENCE
+
+A premium website must remain usable on real devices.
+
+Optimize for desktop, laptop, tablet and mobile.
+
+On desktop, use the complete cinematic 3D experience.
+
+On mobile, simplify the geometry, reduce particle counts and adjust the camera composition.
+
+Do not simply shrink the desktop layout.
+
+Avoid excessively long pinned sequences.
+
+Ensure that all text remains readable.
+
+Reduce expensive shadows and post-processing on less powerful devices.
+
+Use compressed models and appropriate texture resolutions.
+
+Avoid unnecessary rendering when the 3D scene is not visible.
+
+Support reduced-motion preferences.
+
+Provide a visually appropriate fallback if WebGL is unavailable.
+
+Ensure that the course information and contact details remain accessible regardless of the 3D scene.
+
+---
+
+# 19. FINAL DESIGN RULES
+
+The entire website must feel like one connected experience.
+
+The camera, environment, objects and lighting should transform as the visitor scrolls.
+
+Do not create a series of unrelated animated sections.
+
+Do not use generic floating books as the central visual idea.
+
+Do not use excessive neon.
+
+Do not make the website resemble a gaming interface.
+
+Do not make the text difficult to read.
+
+Do not invent business information.
+
+Do not sacrifice mobile usability for desktop effects.
+
+Do not leave buttons nonfunctional.
+
+Do not substitute static imagery for the requested working 3D experience.
+
+The visual quality must come from the combination of:
+
+- Realistic 3D modeling
+- Architectural composition
+- Cinematic lighting
+- Camera choreography
+- Scroll-driven transformations
+- Premium typography
+- Smooth interaction
+- Functional website design
+
+---
+
+# 20. FINAL DELIVERABLE
+
+Build the complete responsive website.
+
+Deliver:
+
+1. A premium cinematic 3D hero.
+2. A realistic monumental scientific sculpture.
+3. A custom architectural environment.
+4. Scroll-driven camera movement.
+5. Realistic object rotation and transformation.
+6. Smooth transitions between all major sections.
+7. Individual visual environments for academic programs.
+8. A photorealistic library visualization.
+9. Functional WhatsApp and telephone links.
+10. Responsive navigation.
+11. Mobile-specific scene optimization.
+12. Reduced-motion support.
+13. SEO metadata.
+14. Working enquiry interactions.
+15. Clean, maintainable code.
+16. Appropriate setup and deployment instructions.
+
+Before completion, verify that scrolling genuinely changes the camera, objects and environment.
+
+The finished website must feel bold, immersive, realistic and custom-built.
+
+FINAL CREATIVE STATEMENT:
+
+Do not design a website with 3D objects.
+
+Design a three-dimensional world that happens to be a website.
+
+The visitor should feel that every scroll takes them somewhere new.
+
+Make the hero unforgettable.
+
+Make the motion believable.
+
+Make the transitions seamless.
+
+Make the library inviting.
+
+Make the information clear.
+
+Make Sarvadnya Tuition Classes look like a premium, ambitious and modern educational brand.
